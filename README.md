@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤔 I’m seeking summer internship 2023 in Data Science/ Machine leanring and Software Development roles
 - 📫 How to reach me: dagarwa24@asu.edu
 - 📝[Resume](https://drive.google.com/file/d/1PHrC6XkfLIM6HKxXY-l_yDp2RJIfMOlh/view?usp=sharing)
-
+<hr>
 **Skills:** 
 <p align="left">
   <!-- python -->
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
  
 </p>
-
+<hr>
 **Social Media:**
 
 
