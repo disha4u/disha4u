@@ -1,5 +1,3 @@
-### Hi 👋
-
 This is Disha Agarwal.
 <!--
 
