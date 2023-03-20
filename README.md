@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 <h4>Social Media</h4>
 <br>
 <a href="https://www.linkedin.com/in/disha-agarwal-4u/">
-  <img align="left" alt="Disha's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Disha's LinkdeIn" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
