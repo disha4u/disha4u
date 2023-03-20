@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dagarwa24@asu.edu
 - 📝[Resume](https://drive.google.com/file/d/1PHrC6XkfLIM6HKxXY-l_yDp2RJIfMOlh/view?usp=sharing)
 <hr>
-**Skills:** 
+##Skills 
 <p align="left">
   <!-- python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -44,9 +44,8 @@ Here are some ideas to get you started:
  
 </p>
 <hr>
-**Social Media:**
-
-
+##Social Media
+<br>
 <a href="https://www.linkedin.com/in/disha-agarwal-4u/">
   <img align="left" alt="Disha's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
