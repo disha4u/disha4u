@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a Masters in Computer Science student at ASU.
 - 🤔 I’m seeking summer internship 2023 in Data Science/ Machine leanring and Software Development roles
 - 📫 How to reach me: dagarwa24@asu.edu
-- 📝[Resume](https://drive.google.com/file/d/1PHrC6XkfLIM6HKxXY-l_yDp2RJIfMOlh/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1J1tZkKQz0tJQBKjj63JUZ73egWwcVu1m/view?usp=sharing)
 <hr>
 
 <h4>Skills </h4>
