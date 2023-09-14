@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-Hi, I'm Disha Agarwal, I m a keen learner. My passion is Data Science, Machine Learning and Software. I am interested in enabling key sectors like Healthcare and Finance and etc. through Technology, Data Science, and Machine Learning. 
+Hello, I'm Disha Agarwal, I'm a keen learner. My passion is Data Science, Machine Learning, and Software Devlopment. I am interested in enabling key sectors like Healthcare and Finance etc. through Technology, Data Science, and Machine Learning. 
 Besides technology, I am fond of disciplined workouts(in the lap of nature) and dancing.
 <!--
 
